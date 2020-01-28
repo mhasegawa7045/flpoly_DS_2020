@@ -20,7 +20,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 |**CTS**|**2375**|_Cloud Implementation Strategies & CloudProviders_| 3 |
 |**EGN**|**3448**|_Operations Research_|3|
 |**ENT**|**2112**|_Entrepreneurial Opportunity Analysis_|3|
-|**COP**|**2073**|_ Introduction to Data Science_|3|
+|**COP**|**2073**|_Introduction to Data Science_|3|
 
 **Hobbies:**
 

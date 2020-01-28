@@ -14,7 +14,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 - Course 5: COP 2073
 
-| **Prefix** | **Number** | _ClassName_ | Credits |
+| **Prefix** | **Number** | _Class Name_ | Credits |
 |-----------:|:-----------|:-----------:|:-------:|
 |**COP**|**4531**|_Algorithm Design & Analysis_|3|
 |**CTS**|**2375**|_Cloud Implementation Strategies & CloudProviders_| 3 |
